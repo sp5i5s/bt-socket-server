@@ -1,0 +1,468 @@
+[2018-06-06T14:56:12.608] [INFO] default - redis 连接失败
+[2018-06-06T14:56:12.608] [INFO] default - undefined
+[2018-06-06T14:56:13.111] [INFO] default - redis 连接失败
+[2018-06-06T14:56:13.112] [INFO] default - undefined
+[2018-06-06T14:56:13.160] [INFO] default - redis 连接失败
+[2018-06-06T14:56:13.160] [INFO] default - undefined
+[2018-06-06T14:56:15.611] [INFO] default - redis 连接失败
+[2018-06-06T14:56:15.611] [INFO] default - undefined
+[2018-06-06T14:56:16.117] [INFO] default - redis 连接失败
+[2018-06-06T14:56:16.117] [INFO] default - undefined
+[2018-06-06T14:56:16.171] [INFO] default - redis 连接失败
+[2018-06-06T14:56:16.171] [INFO] default - undefined
+[2018-06-06T14:56:18.613] [INFO] default - redis 连接失败
+[2018-06-06T14:56:18.613] [INFO] default - undefined
+[2018-06-06T14:56:19.122] [INFO] default - redis 连接失败
+[2018-06-06T14:56:19.122] [INFO] default - undefined
+[2018-06-06T14:56:19.171] [INFO] default - redis 连接失败
+[2018-06-06T14:56:19.171] [INFO] default - undefined
+[2018-06-06T14:56:21.617] [INFO] default - redis 连接失败
+[2018-06-06T14:56:21.617] [INFO] default - undefined
+[2018-06-06T14:56:22.128] [INFO] default - redis 连接失败
+[2018-06-06T14:56:22.128] [INFO] default - undefined
+[2018-06-06T14:56:22.183] [INFO] default - redis 连接失败
+[2018-06-06T14:56:22.183] [INFO] default - undefined
+[2018-06-06T14:56:24.618] [INFO] default - redis 连接失败
+[2018-06-06T14:56:24.618] [INFO] default - undefined
+[2018-06-06T14:56:25.134] [INFO] default - redis 连接失败
+[2018-06-06T14:56:25.135] [INFO] default - undefined
+[2018-06-06T14:56:25.182] [INFO] default - redis 连接失败
+[2018-06-06T14:56:25.183] [INFO] default - undefined
+[2018-06-06T14:56:27.620] [INFO] default - redis 连接失败
+[2018-06-06T14:56:27.621] [INFO] default - undefined
+[2018-06-06T14:56:28.140] [INFO] default - redis 连接失败
+[2018-06-06T14:56:28.140] [INFO] default - undefined
+[2018-06-06T14:56:28.194] [INFO] default - redis 连接失败
+[2018-06-06T14:56:28.195] [INFO] default - undefined
+[2018-06-06T14:56:30.623] [INFO] default - redis 连接失败
+[2018-06-06T14:56:30.623] [INFO] default - undefined
+[2018-06-06T14:56:30.623] [INFO] default - redis 连接失败
+[2018-06-06T14:56:30.623] [INFO] default - undefined
+[2018-06-06T14:56:31.146] [INFO] default - redis 连接失败
+[2018-06-06T14:56:31.146] [INFO] default - undefined
+[2018-06-06T14:56:31.201] [INFO] default - redis 连接失败
+[2018-06-06T14:56:31.201] [INFO] default - undefined
+[2018-06-06T14:56:33.625] [INFO] default - redis 连接失败
+[2018-06-06T14:56:33.625] [INFO] default - undefined
+[2018-06-06T14:56:34.152] [INFO] default - redis 连接失败
+[2018-06-06T14:56:34.152] [INFO] default - undefined
+[2018-06-06T14:56:34.200] [INFO] default - redis 连接失败
+[2018-06-06T14:56:34.200] [INFO] default - undefined
+[2018-06-06T14:56:36.629] [INFO] default - redis 连接失败
+[2018-06-06T14:56:36.629] [INFO] default - undefined
+[2018-06-06T14:56:37.159] [INFO] default - redis 连接失败
+[2018-06-06T14:56:37.159] [INFO] default - undefined
+[2018-06-06T14:56:37.208] [INFO] default - redis 连接失败
+[2018-06-06T14:56:37.208] [INFO] default - undefined
+[2018-06-06T14:56:39.631] [INFO] default - redis 连接失败
+[2018-06-06T14:56:39.631] [INFO] default - undefined
+[2018-06-06T14:56:40.166] [INFO] default - redis 连接失败
+[2018-06-06T14:56:40.166] [INFO] default - undefined
+[2018-06-06T14:56:40.215] [INFO] default - redis 连接失败
+[2018-06-06T14:56:40.215] [INFO] default - undefined
+[2018-06-06T14:56:42.634] [INFO] default - redis 连接失败
+[2018-06-06T14:56:42.634] [INFO] default - undefined
+[2018-06-06T14:56:43.173] [INFO] default - redis 连接失败
+[2018-06-06T14:56:43.173] [INFO] default - undefined
+[2018-06-06T14:56:43.228] [INFO] default - redis 连接失败
+[2018-06-06T14:56:43.228] [INFO] default - undefined
+[2018-06-06T14:56:45.636] [INFO] default - redis 连接失败
+[2018-06-06T14:56:45.637] [INFO] default - undefined
+[2018-06-06T14:56:46.177] [INFO] default - redis 连接失败
+[2018-06-06T14:56:46.177] [INFO] default - undefined
+[2018-06-06T14:56:46.225] [INFO] default - redis 连接失败
+[2018-06-06T14:56:46.225] [INFO] default - undefined
+[2018-06-06T14:56:48.639] [INFO] default - redis 连接失败
+[2018-06-06T14:56:48.639] [INFO] default - undefined
+[2018-06-06T14:56:49.183] [INFO] default - redis 连接失败
+[2018-06-06T14:56:49.183] [INFO] default - undefined
+[2018-06-06T14:56:49.239] [INFO] default - redis 连接失败
+[2018-06-06T14:56:49.239] [INFO] default - undefined
+[2018-06-06T14:56:51.641] [INFO] default - redis 连接失败
+[2018-06-06T14:56:51.642] [INFO] default - undefined
+[2018-06-06T14:56:52.189] [INFO] default - redis 连接失败
+[2018-06-06T14:56:52.189] [INFO] default - undefined
+[2018-06-06T14:56:52.237] [INFO] default - redis 连接失败
+[2018-06-06T14:56:52.237] [INFO] default - undefined
+[2018-06-06T14:56:54.644] [INFO] default - redis 连接失败
+[2018-06-06T14:56:54.645] [INFO] default - undefined
+[2018-06-06T14:56:55.196] [INFO] default - redis 连接失败
+[2018-06-06T14:56:55.197] [INFO] default - undefined
+[2018-06-06T14:56:55.253] [INFO] default - redis 连接失败
+[2018-06-06T14:56:55.253] [INFO] default - undefined
+[2018-06-06T14:56:57.655] [INFO] default - redis 连接失败
+[2018-06-06T14:56:57.655] [INFO] default - undefined
+[2018-06-06T14:56:58.203] [INFO] default - redis 连接失败
+[2018-06-06T14:56:58.203] [INFO] default - undefined
+[2018-06-06T14:56:58.251] [INFO] default - redis 连接失败
+[2018-06-06T14:56:58.251] [INFO] default - undefined
+[2018-06-06T14:57:00.651] [INFO] default - redis 连接失败
+[2018-06-06T14:57:00.651] [INFO] default - undefined
+[2018-06-06T14:57:01.210] [INFO] default - redis 连接失败
+[2018-06-06T14:57:01.210] [INFO] default - undefined
+[2018-06-06T14:57:01.259] [INFO] default - redis 连接失败
+[2018-06-06T14:57:01.259] [INFO] default - undefined
+[2018-06-06T14:57:03.655] [INFO] default - redis 连接失败
+[2018-06-06T14:57:03.655] [INFO] default - undefined
+[2018-06-06T14:57:04.217] [INFO] default - redis 连接失败
+[2018-06-06T14:57:04.217] [INFO] default - undefined
+[2018-06-06T14:57:04.265] [INFO] default - redis 连接失败
+[2018-06-06T14:57:04.265] [INFO] default - undefined
+[2018-06-06T14:57:06.659] [INFO] default - redis 连接失败
+[2018-06-06T14:57:06.659] [INFO] default - undefined
+[2018-06-06T14:57:07.224] [INFO] default - redis 连接失败
+[2018-06-06T14:57:07.224] [INFO] default - undefined
+[2018-06-06T14:57:07.279] [INFO] default - redis 连接失败
+[2018-06-06T14:57:07.279] [INFO] default - undefined
+[2018-06-06T14:57:09.662] [INFO] default - redis 连接失败
+[2018-06-06T14:57:09.663] [INFO] default - undefined
+[2018-06-06T14:57:10.231] [INFO] default - redis 连接失败
+[2018-06-06T14:57:10.231] [INFO] default - undefined
+[2018-06-06T14:57:10.278] [INFO] default - redis 连接失败
+[2018-06-06T14:57:10.279] [INFO] default - undefined
+[2018-06-06T14:57:12.666] [INFO] default - redis 连接失败
+[2018-06-06T14:57:12.666] [INFO] default - undefined
+[2018-06-06T14:57:13.237] [INFO] default - redis 连接失败
+[2018-06-06T14:57:13.237] [INFO] default - undefined
+[2018-06-06T14:57:13.285] [INFO] default - redis 连接失败
+[2018-06-06T14:57:13.285] [INFO] default - undefined
+[2018-06-06T14:57:15.670] [INFO] default - redis 连接失败
+[2018-06-06T14:57:15.670] [INFO] default - undefined
+[2018-06-06T14:57:16.243] [INFO] default - redis 连接失败
+[2018-06-06T14:57:16.243] [INFO] default - undefined
+[2018-06-06T14:57:16.291] [INFO] default - redis 连接失败
+[2018-06-06T14:57:16.291] [INFO] default - undefined
+[2018-06-06T14:57:18.674] [INFO] default - redis 连接失败
+[2018-06-06T14:57:18.674] [INFO] default - undefined
+[2018-06-06T14:57:19.249] [INFO] default - redis 连接失败
+[2018-06-06T14:57:19.249] [INFO] default - undefined
+[2018-06-06T14:57:19.297] [INFO] default - redis 连接失败
+[2018-06-06T14:57:19.297] [INFO] default - undefined
+[2018-06-06T14:57:21.677] [INFO] default - redis 连接失败
+[2018-06-06T14:57:21.678] [INFO] default - undefined
+[2018-06-06T14:57:22.254] [INFO] default - redis 连接失败
+[2018-06-06T14:57:22.254] [INFO] default - undefined
+[2018-06-06T14:57:22.310] [INFO] default - redis 连接失败
+[2018-06-06T14:57:22.310] [INFO] default - undefined
+[2018-06-06T14:57:24.680] [INFO] default - redis 连接失败
+[2018-06-06T14:57:24.680] [INFO] default - undefined
+[2018-06-06T14:57:25.259] [INFO] default - redis 连接失败
+[2018-06-06T14:57:25.259] [INFO] default - undefined
+[2018-06-06T14:57:25.314] [INFO] default - redis 连接失败
+[2018-06-06T14:57:25.314] [INFO] default - undefined
+[2018-06-06T14:57:27.683] [INFO] default - redis 连接失败
+[2018-06-06T14:57:27.683] [INFO] default - undefined
+[2018-06-06T14:57:27.683] [INFO] default - redis 连接失败
+[2018-06-06T14:57:27.684] [INFO] default - undefined
+[2018-06-06T14:57:28.263] [INFO] default - redis 连接失败
+[2018-06-06T14:57:28.263] [INFO] default - undefined
+[2018-06-06T14:57:28.318] [INFO] default - redis 连接失败
+[2018-06-06T14:57:28.318] [INFO] default - undefined
+[2018-06-06T14:57:30.686] [INFO] default - redis 连接失败
+[2018-06-06T14:57:30.686] [INFO] default - undefined
+[2018-06-06T14:57:31.268] [INFO] default - redis 连接失败
+[2018-06-06T14:57:31.268] [INFO] default - undefined
+[2018-06-06T14:57:31.322] [INFO] default - redis 连接失败
+[2018-06-06T14:57:31.322] [INFO] default - undefined
+[2018-06-06T14:57:33.690] [INFO] default - redis 连接失败
+[2018-06-06T14:57:33.690] [INFO] default - undefined
+[2018-06-06T14:57:34.272] [INFO] default - redis 连接失败
+[2018-06-06T14:57:34.272] [INFO] default - undefined
+[2018-06-06T14:57:34.320] [INFO] default - redis 连接失败
+[2018-06-06T14:57:34.320] [INFO] default - undefined
+[2018-06-06T14:57:36.694] [INFO] default - redis 连接失败
+[2018-06-06T14:57:36.694] [INFO] default - undefined
+[2018-06-06T14:57:37.277] [INFO] default - redis 连接失败
+[2018-06-06T14:57:37.277] [INFO] default - undefined
+[2018-06-06T14:57:37.325] [INFO] default - redis 连接失败
+[2018-06-06T14:57:37.325] [INFO] default - undefined
+[2018-06-06T14:57:39.698] [INFO] default - redis 连接失败
+[2018-06-06T14:57:39.699] [INFO] default - undefined
+[2018-06-06T14:57:40.281] [INFO] default - redis 连接失败
+[2018-06-06T14:57:40.281] [INFO] default - undefined
+[2018-06-06T14:57:40.336] [INFO] default - redis 连接失败
+[2018-06-06T14:57:40.336] [INFO] default - undefined
+[2018-06-06T14:57:42.702] [INFO] default - redis 连接失败
+[2018-06-06T14:57:42.702] [INFO] default - undefined
+[2018-06-06T14:57:43.285] [INFO] default - redis 连接失败
+[2018-06-06T14:57:43.286] [INFO] default - undefined
+[2018-06-06T14:57:43.334] [INFO] default - redis 连接失败
+[2018-06-06T14:57:43.334] [INFO] default - undefined
+[2018-06-06T14:57:45.704] [INFO] default - redis 连接失败
+[2018-06-06T14:57:45.704] [INFO] default - undefined
+[2018-06-06T14:57:46.290] [INFO] default - redis 连接失败
+[2018-06-06T14:57:46.290] [INFO] default - undefined
+[2018-06-06T14:57:46.338] [INFO] default - redis 连接失败
+[2018-06-06T14:57:46.338] [INFO] default - undefined
+[2018-06-06T14:57:48.707] [INFO] default - redis 连接失败
+[2018-06-06T14:57:48.707] [INFO] default - undefined
+[2018-06-06T14:57:49.295] [INFO] default - redis 连接失败
+[2018-06-06T14:57:49.295] [INFO] default - undefined
+[2018-06-06T14:57:49.343] [INFO] default - redis 连接失败
+[2018-06-06T14:57:49.343] [INFO] default - undefined
+[2018-06-06T14:57:51.711] [INFO] default - redis 连接失败
+[2018-06-06T14:57:51.711] [INFO] default - undefined
+[2018-06-06T14:57:52.300] [INFO] default - redis 连接失败
+[2018-06-06T14:57:52.300] [INFO] default - undefined
+[2018-06-06T14:57:52.347] [INFO] default - redis 连接失败
+[2018-06-06T14:57:52.348] [INFO] default - undefined
+[2018-06-06T14:57:54.715] [INFO] default - redis 连接失败
+[2018-06-06T14:57:54.715] [INFO] default - undefined
+[2018-06-06T14:57:55.304] [INFO] default - redis 连接失败
+[2018-06-06T14:57:55.304] [INFO] default - undefined
+[2018-06-06T14:57:55.352] [INFO] default - redis 连接失败
+[2018-06-06T14:57:55.352] [INFO] default - undefined
+[2018-06-06T14:57:57.718] [INFO] default - redis 连接失败
+[2018-06-06T14:57:57.719] [INFO] default - undefined
+[2018-06-06T14:57:57.719] [INFO] default - redis 连接失败
+[2018-06-06T14:57:57.719] [INFO] default - undefined
+[2018-06-06T14:57:58.308] [INFO] default - redis 连接失败
+[2018-06-06T14:57:58.308] [INFO] default - undefined
+[2018-06-06T14:57:58.357] [INFO] default - redis 连接失败
+[2018-06-06T14:57:58.358] [INFO] default - undefined
+[2018-06-06T14:58:00.722] [INFO] default - redis 连接失败
+[2018-06-06T14:58:00.723] [INFO] default - undefined
+[2018-06-06T14:58:01.312] [INFO] default - redis 连接失败
+[2018-06-06T14:58:01.313] [INFO] default - undefined
+[2018-06-06T14:58:01.361] [INFO] default - redis 连接失败
+[2018-06-06T14:58:01.361] [INFO] default - undefined
+[2018-06-06T14:58:03.725] [INFO] default - redis 连接失败
+[2018-06-06T14:58:03.725] [INFO] default - undefined
+[2018-06-06T14:58:04.318] [INFO] default - redis 连接失败
+[2018-06-06T14:58:04.319] [INFO] default - undefined
+[2018-06-06T14:58:04.367] [INFO] default - redis 连接失败
+[2018-06-06T14:58:04.367] [INFO] default - undefined
+[2018-06-06T14:58:06.729] [INFO] default - redis 连接失败
+[2018-06-06T14:58:06.729] [INFO] default - undefined
+[2018-06-06T14:58:06.730] [INFO] default - redis 连接失败
+[2018-06-06T14:58:06.730] [INFO] default - undefined
+[2018-06-06T14:58:07.325] [INFO] default - redis 连接失败
+[2018-06-06T14:58:07.325] [INFO] default - undefined
+[2018-06-06T14:58:07.373] [INFO] default - redis 连接失败
+[2018-06-06T14:58:07.373] [INFO] default - undefined
+[2018-06-06T14:58:09.733] [INFO] default - redis 连接失败
+[2018-06-06T14:58:09.733] [INFO] default - undefined
+[2018-06-06T14:58:10.332] [INFO] default - redis 连接失败
+[2018-06-06T14:58:10.332] [INFO] default - undefined
+[2018-06-06T14:58:10.380] [INFO] default - redis 连接失败
+[2018-06-06T14:58:10.380] [INFO] default - undefined
+[2018-06-06T14:58:12.736] [INFO] default - redis 连接失败
+[2018-06-06T14:58:12.737] [INFO] default - undefined
+[2018-06-06T14:58:13.339] [INFO] default - redis 连接失败
+[2018-06-06T14:58:13.339] [INFO] default - undefined
+[2018-06-06T14:58:13.394] [INFO] default - redis 连接失败
+[2018-06-06T14:58:13.394] [INFO] default - undefined
+[2018-06-06T14:58:15.740] [INFO] default - redis 连接失败
+[2018-06-06T14:58:15.740] [INFO] default - undefined
+[2018-06-06T14:58:16.346] [INFO] default - redis 连接失败
+[2018-06-06T14:58:16.346] [INFO] default - undefined
+[2018-06-06T14:58:16.402] [INFO] default - redis 连接失败
+[2018-06-06T14:58:16.402] [INFO] default - undefined
+[2018-06-06T14:58:18.744] [INFO] default - redis 连接失败
+[2018-06-06T14:58:18.744] [INFO] default - undefined
+[2018-06-06T14:58:19.352] [INFO] default - redis 连接失败
+[2018-06-06T14:58:19.353] [INFO] default - undefined
+[2018-06-06T14:58:19.401] [INFO] default - redis 连接失败
+[2018-06-06T14:58:19.401] [INFO] default - undefined
+[2018-06-06T14:58:21.748] [INFO] default - redis 连接失败
+[2018-06-06T14:58:21.748] [INFO] default - undefined
+[2018-06-06T14:58:22.359] [INFO] default - redis 连接失败
+[2018-06-06T14:58:22.359] [INFO] default - undefined
+[2018-06-06T14:58:22.407] [INFO] default - redis 连接失败
+[2018-06-06T14:58:22.407] [INFO] default - undefined
+[2018-06-06T14:58:24.752] [INFO] default - redis 连接失败
+[2018-06-06T14:58:24.752] [INFO] default - undefined
+[2018-06-06T14:58:25.364] [INFO] default - redis 连接失败
+[2018-06-06T14:58:25.364] [INFO] default - undefined
+[2018-06-06T14:58:25.419] [INFO] default - redis 连接失败
+[2018-06-06T14:58:25.419] [INFO] default - undefined
+[2018-06-06T14:58:27.755] [INFO] default - redis 连接失败
+[2018-06-06T14:58:27.756] [INFO] default - undefined
+[2018-06-06T14:58:28.371] [INFO] default - redis 连接失败
+[2018-06-06T14:58:28.371] [INFO] default - undefined
+[2018-06-06T14:58:28.419] [INFO] default - redis 连接失败
+[2018-06-06T14:58:28.419] [INFO] default - undefined
+[2018-06-06T14:58:30.759] [INFO] default - redis 连接失败
+[2018-06-06T14:58:30.759] [INFO] default - undefined
+[2018-06-06T14:58:31.376] [INFO] default - redis 连接失败
+[2018-06-06T14:58:31.376] [INFO] default - undefined
+[2018-06-06T14:58:31.424] [INFO] default - redis 连接失败
+[2018-06-06T14:58:31.424] [INFO] default - undefined
+[2018-06-06T14:58:33.763] [INFO] default - redis 连接失败
+[2018-06-06T14:58:33.763] [INFO] default - undefined
+[2018-06-06T14:58:34.382] [INFO] default - redis 连接失败
+[2018-06-06T14:58:34.383] [INFO] default - undefined
+[2018-06-06T14:58:34.437] [INFO] default - redis 连接失败
+[2018-06-06T14:58:34.437] [INFO] default - undefined
+[2018-06-06T14:58:36.767] [INFO] default - redis 连接失败
+[2018-06-06T14:58:36.767] [INFO] default - undefined
+[2018-06-06T14:58:37.389] [INFO] default - redis 连接失败
+[2018-06-06T14:58:37.389] [INFO] default - undefined
+[2018-06-06T14:58:37.437] [INFO] default - redis 连接失败
+[2018-06-06T14:58:37.439] [INFO] default - undefined
+[2018-06-06T14:58:39.770] [INFO] default - redis 连接失败
+[2018-06-06T14:58:39.771] [INFO] default - undefined
+[2018-06-06T14:58:40.397] [INFO] default - redis 连接失败
+[2018-06-06T14:58:40.397] [INFO] default - undefined
+[2018-06-06T14:58:40.455] [INFO] default - redis 连接失败
+[2018-06-06T14:58:40.455] [INFO] default - undefined
+[2018-06-06T14:58:42.774] [INFO] default - redis 连接失败
+[2018-06-06T14:58:42.775] [INFO] default - undefined
+[2018-06-06T14:58:43.403] [INFO] default - redis 连接失败
+[2018-06-06T14:58:43.403] [INFO] default - undefined
+[2018-06-06T14:58:43.452] [INFO] default - redis 连接失败
+[2018-06-06T14:58:43.452] [INFO] default - undefined
+[2018-06-06T14:58:45.778] [INFO] default - redis 连接失败
+[2018-06-06T14:58:45.779] [INFO] default - undefined
+[2018-06-06T14:58:46.410] [INFO] default - redis 连接失败
+[2018-06-06T14:58:46.410] [INFO] default - undefined
+[2018-06-06T14:58:46.459] [INFO] default - redis 连接失败
+[2018-06-06T14:58:46.459] [INFO] default - undefined
+[2018-06-06T14:58:48.781] [INFO] default - redis 连接失败
+[2018-06-06T14:58:48.782] [INFO] default - undefined
+[2018-06-06T14:58:49.416] [INFO] default - redis 连接失败
+[2018-06-06T14:58:49.416] [INFO] default - undefined
+[2018-06-06T14:58:49.464] [INFO] default - redis 连接失败
+[2018-06-06T14:58:49.464] [INFO] default - undefined
+[2018-06-06T14:58:51.784] [INFO] default - redis 连接失败
+[2018-06-06T14:58:51.785] [INFO] default - undefined
+[2018-06-06T14:58:52.420] [INFO] default - redis 连接失败
+[2018-06-06T14:58:52.420] [INFO] default - undefined
+[2018-06-06T14:58:52.469] [INFO] default - redis 连接失败
+[2018-06-06T14:58:52.469] [INFO] default - undefined
+[2018-06-06T14:58:54.787] [INFO] default - redis 连接失败
+[2018-06-06T14:58:54.787] [INFO] default - undefined
+[2018-06-06T14:58:55.427] [INFO] default - redis 连接失败
+[2018-06-06T14:58:55.427] [INFO] default - undefined
+[2018-06-06T14:58:55.481] [INFO] default - redis 连接失败
+[2018-06-06T14:58:55.482] [INFO] default - undefined
+[2018-06-06T14:58:57.790] [INFO] default - redis 连接失败
+[2018-06-06T14:58:57.790] [INFO] default - undefined
+[2018-06-06T14:58:58.432] [INFO] default - redis 连接失败
+[2018-06-06T14:58:58.433] [INFO] default - undefined
+[2018-06-06T14:58:58.481] [INFO] default - redis 连接失败
+[2018-06-06T14:58:58.481] [INFO] default - undefined
+[2018-06-06T14:59:00.794] [INFO] default - redis 连接失败
+[2018-06-06T14:59:00.794] [INFO] default - undefined
+[2018-06-06T14:59:01.439] [INFO] default - redis 连接失败
+[2018-06-06T14:59:01.439] [INFO] default - undefined
+[2018-06-06T14:59:01.487] [INFO] default - redis 连接失败
+[2018-06-06T14:59:01.488] [INFO] default - undefined
+[2018-06-06T14:59:03.797] [INFO] default - redis 连接失败
+[2018-06-06T14:59:03.797] [INFO] default - undefined
+[2018-06-06T14:59:04.446] [INFO] default - redis 连接失败
+[2018-06-06T14:59:04.446] [INFO] default - undefined
+[2018-06-06T14:59:04.505] [INFO] default - redis 连接失败
+[2018-06-06T14:59:04.506] [INFO] default - undefined
+[2018-06-06T14:59:06.800] [INFO] default - redis 连接失败
+[2018-06-06T14:59:06.801] [INFO] default - undefined
+[2018-06-06T14:59:07.451] [INFO] default - redis 连接失败
+[2018-06-06T14:59:07.452] [INFO] default - undefined
+[2018-06-06T14:59:07.500] [INFO] default - redis 连接失败
+[2018-06-06T14:59:07.500] [INFO] default - undefined
+[2018-06-06T14:59:09.802] [INFO] default - redis 连接失败
+[2018-06-06T14:59:09.803] [INFO] default - undefined
+[2018-06-06T14:59:09.804] [INFO] default - redis 连接失败
+[2018-06-06T14:59:09.806] [INFO] default - undefined
+[2018-06-06T14:59:10.458] [INFO] default - redis 连接失败
+[2018-06-06T14:59:10.458] [INFO] default - undefined
+[2018-06-06T14:59:10.506] [INFO] default - redis 连接失败
+[2018-06-06T14:59:10.506] [INFO] default - undefined
+[2018-06-06T14:59:12.803] [INFO] default - redis 连接失败
+[2018-06-06T14:59:12.804] [INFO] default - undefined
+[2018-06-06T14:59:13.464] [INFO] default - redis 连接失败
+[2018-06-06T14:59:13.464] [INFO] default - undefined
+[2018-06-06T14:59:13.512] [INFO] default - redis 连接失败
+[2018-06-06T14:59:13.512] [INFO] default - undefined
+[2018-06-06T14:59:15.804] [INFO] default - redis 连接失败
+[2018-06-06T14:59:15.804] [INFO] default - undefined
+[2018-06-06T14:59:16.467] [INFO] default - redis 连接失败
+[2018-06-06T14:59:16.467] [INFO] default - undefined
+[2018-06-06T14:59:16.515] [INFO] default - redis 连接失败
+[2018-06-06T14:59:16.515] [INFO] default - undefined
+[2018-06-06T14:59:18.804] [INFO] default - redis 连接失败
+[2018-06-06T14:59:18.804] [INFO] default - undefined
+[2018-06-06T14:59:19.474] [INFO] default - redis 连接失败
+[2018-06-06T14:59:19.474] [INFO] default - undefined
+[2018-06-06T14:59:19.522] [INFO] default - redis 连接失败
+[2018-06-06T14:59:19.522] [INFO] default - undefined
+[2018-06-06T14:59:21.808] [INFO] default - redis 连接失败
+[2018-06-06T14:59:21.808] [INFO] default - undefined
+[2018-06-06T14:59:22.481] [INFO] default - redis 连接失败
+[2018-06-06T14:59:22.481] [INFO] default - undefined
+[2018-06-06T14:59:22.530] [INFO] default - redis 连接失败
+[2018-06-06T14:59:22.530] [INFO] default - undefined
+[2018-06-06T14:59:24.811] [INFO] default - redis 连接失败
+[2018-06-06T14:59:24.812] [INFO] default - undefined
+[2018-06-06T14:59:25.488] [INFO] default - redis 连接失败
+[2018-06-06T14:59:25.488] [INFO] default - undefined
+[2018-06-06T14:59:25.536] [INFO] default - redis 连接失败
+[2018-06-06T14:59:25.536] [INFO] default - undefined
+[2018-06-06T14:59:27.814] [INFO] default - redis 连接失败
+[2018-06-06T14:59:27.814] [INFO] default - undefined
+[2018-06-06T14:59:28.495] [INFO] default - redis 连接失败
+[2018-06-06T14:59:28.495] [INFO] default - undefined
+[2018-06-06T14:59:28.545] [INFO] default - redis 连接失败
+[2018-06-06T14:59:28.545] [INFO] default - undefined
+[2018-06-06T14:59:30.817] [INFO] default - redis 连接失败
+[2018-06-06T14:59:30.817] [INFO] default - undefined
+[2018-06-06T14:59:31.503] [INFO] default - redis 连接失败
+[2018-06-06T14:59:31.503] [INFO] default - undefined
+[2018-06-06T14:59:31.550] [INFO] default - redis 连接失败
+[2018-06-06T14:59:31.550] [INFO] default - undefined
+[2018-06-06T14:59:33.821] [INFO] default - redis 连接失败
+[2018-06-06T14:59:33.821] [INFO] default - undefined
+[2018-06-06T14:59:34.509] [INFO] default - redis 连接失败
+[2018-06-06T14:59:34.509] [INFO] default - undefined
+[2018-06-06T14:59:34.564] [INFO] default - redis 连接失败
+[2018-06-06T14:59:34.564] [INFO] default - undefined
+[2018-06-06T14:59:36.825] [INFO] default - redis 连接失败
+[2018-06-06T14:59:36.825] [INFO] default - undefined
+[2018-06-06T14:59:37.516] [INFO] default - redis 连接失败
+[2018-06-06T14:59:37.516] [INFO] default - undefined
+[2018-06-06T14:59:37.564] [INFO] default - redis 连接失败
+[2018-06-06T14:59:37.564] [INFO] default - undefined
+[2018-06-06T14:59:39.828] [INFO] default - redis 连接失败
+[2018-06-06T14:59:39.828] [INFO] default - undefined
+[2018-06-06T14:59:40.523] [INFO] default - redis 连接失败
+[2018-06-06T14:59:40.524] [INFO] default - undefined
+[2018-06-06T14:59:40.579] [INFO] default - redis 连接失败
+[2018-06-06T14:59:40.579] [INFO] default - undefined
+[2018-06-06T14:59:42.832] [INFO] default - redis 连接失败
+[2018-06-06T14:59:42.832] [INFO] default - undefined
+[2018-06-06T14:59:43.530] [INFO] default - redis 连接失败
+[2018-06-06T14:59:43.530] [INFO] default - undefined
+[2018-06-06T14:59:43.585] [INFO] default - redis 连接失败
+[2018-06-06T14:59:43.585] [INFO] default - undefined
+[2018-06-06T14:59:45.836] [INFO] default - redis 连接失败
+[2018-06-06T14:59:45.836] [INFO] default - undefined
+[2018-06-06T14:59:46.537] [INFO] default - redis 连接失败
+[2018-06-06T14:59:46.537] [INFO] default - undefined
+[2018-06-06T14:59:46.594] [INFO] default - redis 连接失败
+[2018-06-06T14:59:46.594] [INFO] default - undefined
+[2018-06-06T14:59:48.840] [INFO] default - redis 连接失败
+[2018-06-06T14:59:48.840] [INFO] default - undefined
+[2018-06-06T14:59:48.840] [INFO] default - redis 连接失败
+[2018-06-06T14:59:48.840] [INFO] default - undefined
+[2018-06-06T14:59:49.543] [INFO] default - redis 连接失败
+[2018-06-06T14:59:49.543] [INFO] default - undefined
+[2018-06-06T14:59:49.591] [INFO] default - redis 连接失败
+[2018-06-06T14:59:49.591] [INFO] default - undefined
+[2018-06-06T14:59:51.844] [INFO] default - redis 连接失败
+[2018-06-06T14:59:51.844] [INFO] default - undefined
+[2018-06-06T14:59:52.550] [INFO] default - redis 连接失败
+[2018-06-06T14:59:52.550] [INFO] default - undefined
+[2018-06-06T14:59:52.599] [INFO] default - redis 连接失败
+[2018-06-06T14:59:52.599] [INFO] default - undefined
+[2018-06-06T14:59:54.848] [INFO] default - redis 连接失败
+[2018-06-06T14:59:54.848] [INFO] default - undefined
+[2018-06-06T14:59:55.557] [INFO] default - redis 连接失败
+[2018-06-06T14:59:55.557] [INFO] default - undefined
+[2018-06-06T14:59:55.605] [INFO] default - redis 连接失败
+[2018-06-06T14:59:55.605] [INFO] default - undefined
+[2018-06-06T14:59:57.852] [INFO] default - redis 连接失败
+[2018-06-06T14:59:57.852] [INFO] default - undefined
+[2018-06-06T14:59:58.563] [INFO] default - redis 连接失败
+[2018-06-06T14:59:58.563] [INFO] default - undefined
+[2018-06-06T14:59:58.611] [INFO] default - redis 连接失败
+[2018-06-06T14:59:58.611] [INFO] default - undefined

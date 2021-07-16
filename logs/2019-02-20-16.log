@@ -1,0 +1,75 @@
+[2019-02-20T16:22:01.095] [INFO] default - { Error: listen EADDRINUSE 0.0.0.0:8100
+    at Object.exports._errnoException (util.js:1026:11)
+    at exports._exceptionWithHostPort (util.js:1049:20)
+    at Server.setupListenHandle [as _listen2] (net.js:1305:14)
+    at listenInCluster (net.js:1353:12)
+    at Server.listen (net.js:1453:7)
+    at WebSocketServer (/data/wwwroot/wss.onesmart.org/web/node_modules/ws/lib/WebSocketServer.js:76:20)
+    at Object.<anonymous> (/data/wwwroot/wss.onesmart.org/web/modules/listen.js:5:11)
+    at Module._compile (module.js:569:30)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:503:32)
+  code: 'EADDRINUSE',
+  errno: 'EADDRINUSE',
+  syscall: 'listen',
+  address: '0.0.0.0',
+  port: 8100 }
+[2019-02-20T16:22:01.103] [INFO] default - Error: listen EADDRINUSE 0.0.0.0:8100
+    at Object.exports._errnoException (util.js:1026:11)
+    at exports._exceptionWithHostPort (util.js:1049:20)
+    at Server.setupListenHandle [as _listen2] (net.js:1305:14)
+    at listenInCluster (net.js:1353:12)
+    at Server.listen (net.js:1453:7)
+    at WebSocketServer (/data/wwwroot/wss.onesmart.org/web/node_modules/ws/lib/WebSocketServer.js:76:20)
+    at Object.<anonymous> (/data/wwwroot/wss.onesmart.org/web/modules/listen.js:5:11)
+    at Module._compile (module.js:569:30)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:503:32)
+[2019-02-20T16:23:04.094] [INFO] default - redis 连接失败
+[2019-02-20T16:23:04.095] [INFO] default - undefined
+[2019-02-20T16:23:04.097] [INFO] default - redis 连接失败
+[2019-02-20T16:23:04.097] [INFO] default - undefined
+[2019-02-20T16:27:24.600] [INFO] default - TypeError: Cannot read property 'indexOf' of undefined
+    at Object.add (/data/wwwroot/wss.onesmart.org/web/modules/mq.js:15:52)
+    at WebSocketServer.connection (/data/wwwroot/wss.onesmart.org/web/app.js:17:8)
+    at emitTwo (events.js:125:13)
+    at WebSocketServer.emit (events.js:213:7)
+    at handleUpgrade (/data/wwwroot/wss.onesmart.org/web/node_modules/ws/lib/WebSocketServer.js:87:16)
+    at WebSocketServer.completeUpgrade (/data/wwwroot/wss.onesmart.org/web/node_modules/ws/lib/WebSocketServer.js:288:5)
+    at WebSocketServer.handleUpgrade (/data/wwwroot/wss.onesmart.org/web/node_modules/ws/lib/WebSocketServer.js:227:10)
+    at Server.WebSocketServer._ultron.on (/data/wwwroot/wss.onesmart.org/web/node_modules/ws/lib/WebSocketServer.js:86:14)
+    at emitThree (events.js:135:13)
+    at Server.emit (events.js:216:7)
+[2019-02-20T16:27:24.607] [INFO] default - TypeError: Cannot read property 'indexOf' of undefined
+    at Object.add (/data/wwwroot/wss.onesmart.org/web/modules/mq.js:15:52)
+    at WebSocketServer.connection (/data/wwwroot/wss.onesmart.org/web/app.js:17:8)
+    at emitTwo (events.js:125:13)
+    at WebSocketServer.emit (events.js:213:7)
+    at handleUpgrade (/data/wwwroot/wss.onesmart.org/web/node_modules/ws/lib/WebSocketServer.js:87:16)
+    at WebSocketServer.completeUpgrade (/data/wwwroot/wss.onesmart.org/web/node_modules/ws/lib/WebSocketServer.js:288:5)
+    at WebSocketServer.handleUpgrade (/data/wwwroot/wss.onesmart.org/web/node_modules/ws/lib/WebSocketServer.js:227:10)
+    at Server.WebSocketServer._ultron.on (/data/wwwroot/wss.onesmart.org/web/node_modules/ws/lib/WebSocketServer.js:86:14)
+    at emitThree (events.js:135:13)
+    at Server.emit (events.js:216:7)
+[2019-02-20T16:42:25.644] [INFO] default - TypeError: Cannot read property 'indexOf' of undefined
+    at Object.add (/data/wwwroot/wss.onesmart.org/web/modules/mq.js:15:52)
+    at WebSocketServer.connection (/data/wwwroot/wss.onesmart.org/web/app.js:17:8)
+    at emitTwo (events.js:125:13)
+    at WebSocketServer.emit (events.js:213:7)
+    at handleUpgrade (/data/wwwroot/wss.onesmart.org/web/node_modules/ws/lib/WebSocketServer.js:87:16)
+    at WebSocketServer.completeUpgrade (/data/wwwroot/wss.onesmart.org/web/node_modules/ws/lib/WebSocketServer.js:288:5)
+    at WebSocketServer.handleUpgrade (/data/wwwroot/wss.onesmart.org/web/node_modules/ws/lib/WebSocketServer.js:227:10)
+    at Server.WebSocketServer._ultron.on (/data/wwwroot/wss.onesmart.org/web/node_modules/ws/lib/WebSocketServer.js:86:14)
+    at emitThree (events.js:135:13)
+    at Server.emit (events.js:216:7)
+[2019-02-20T16:42:25.645] [INFO] default - TypeError: Cannot read property 'indexOf' of undefined
+    at Object.add (/data/wwwroot/wss.onesmart.org/web/modules/mq.js:15:52)
+    at WebSocketServer.connection (/data/wwwroot/wss.onesmart.org/web/app.js:17:8)
+    at emitTwo (events.js:125:13)
+    at WebSocketServer.emit (events.js:213:7)
+    at handleUpgrade (/data/wwwroot/wss.onesmart.org/web/node_modules/ws/lib/WebSocketServer.js:87:16)
+    at WebSocketServer.completeUpgrade (/data/wwwroot/wss.onesmart.org/web/node_modules/ws/lib/WebSocketServer.js:288:5)
+    at WebSocketServer.handleUpgrade (/data/wwwroot/wss.onesmart.org/web/node_modules/ws/lib/WebSocketServer.js:227:10)
+    at Server.WebSocketServer._ultron.on (/data/wwwroot/wss.onesmart.org/web/node_modules/ws/lib/WebSocketServer.js:86:14)
+    at emitThree (events.js:135:13)
+    at Server.emit (events.js:216:7)
