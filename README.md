@@ -7,4 +7,9 @@
 - Robot 机器人
 - Logs 日志存储
 ## Modules 基础模块
- 
+- INMessage 消息输入端,侦听客户端的消息源
+- OUTmessage 消息输出端,发送消息到客户端
+- Listen WebSocket侦听入口
+- Mq 队列处理
+- Room 房间处理
+- Data\ Redis存储API
